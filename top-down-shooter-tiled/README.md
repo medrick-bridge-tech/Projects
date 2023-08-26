@@ -253,7 +253,7 @@
 
 <hr>
 
-<div id="Steps">
+## Stage 1
 <p><b>Weapons: </b> pistol -> ammo </p>
 <p><b>Item:</b> armor, mine, key </p>
 <p><b>Enemy:</b><ul><li>Fast: less health</li><li>Slow: tank</li></ul></p>
