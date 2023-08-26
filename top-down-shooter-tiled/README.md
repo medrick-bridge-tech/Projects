@@ -16,6 +16,7 @@
 <hr>
 
 <div id="story">
+<!--
     <p></p>
     <p><b>2030</b>, Super power governments destroyed after <b>World War III</b>. You were a simple soldier in your country squad, but now there is no squad. So you are free to act as a free soldier and make your own squad.</p>
     <p>In your way: </p>
@@ -24,6 +25,14 @@
         <li>Help people and as a reward take them to your shelter.</li>
         <li>Buy better items ... Better items make you better soldier.</li>
         ...
+    </ul>
+-->
+    <h3>Story</h3>
+    <p>General Bin, sent you to a mission in Derocsid area, which is high protected by enemies. Find documents, steal it and get out of area.</p>
+    <p>In your way: </p>
+    <ul>
+        <li>Kill other soldiers and take their money.</li>
+        <li>Buy better items ... Better items make you better soldier.</li>
     </ul>
 </div>
 
@@ -129,6 +138,26 @@
     <td>---</td>
 </tr>
 <tr>
+    <td>Armor</td>
+    <td>---</td>
+    <td>---</td>
+</tr>
+<tr>
+    <td>Key</td>
+    <td>---</td>
+    <td>---</td>
+</tr>
+<tr>
+    <td>Chest</td>
+    <td>---</td>
+    <td>---</td>
+</tr>
+<tr>
+    <td>Coin</td>
+    <td>---</td>
+    <td>---</td>
+</tr>
+<tr>
     <td>Car</td>
     <td>5</td>
     <td>20</td>
@@ -223,6 +252,18 @@
 </div>
 
 <hr>
+
+<div id="Steps">
+<p><b>Weapons: </b> pistol -> ammo </p>
+<p><b>Item:</b> armor, mine, key </p>
+<p><b>Enemy:</b><ul><li>Fast: less health</li><li>Slow: tank</li></ul></p>
+<p><b>Map:</b> 40x40</p>
+<p><b>Screen:</b> 10x10</p>
+<p><b>Box:</b> chest<p>
+<p><b>enemies:</b><ul><li>10% key</li><li>90% money [10...25]</li></ul></p>
+<p><b>Goal:</b> Find documents and reach destination</p>
+</div>
+
 <div id="todo">
 <h3>To Do ...</h3>
 <input type="checkbox"><label>Add dungeons</label>
